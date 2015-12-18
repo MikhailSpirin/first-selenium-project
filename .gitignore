@@ -1,7 +1,0 @@
-# Intellij
-*.iml
-*.iws
-
-# Maven
-log/
-target/
